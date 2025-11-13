@@ -49,7 +49,7 @@ public class Solution {
 ```
 
 ## Output:
-
+<img width="411" height="224" alt="image" src="https://github.com/user-attachments/assets/a33e39c2-897d-4bc3-984a-12736fbdc56a" />
 
 
 ## Result:
