@@ -60,6 +60,7 @@ public class CountPairsWithDifference {
 ```
 
 ## Output:
+<img width="483" height="320" alt="image" src="https://github.com/user-attachments/assets/72e245f7-388f-4a35-8838-55a5e0a3a533" />
 
 
 
